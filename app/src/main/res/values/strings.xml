@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Belajar Servise</string>
+    <string name="masukkan_jeda_waktu">Masukkan Jeda Waktu</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="masukan_jeda_waktu">masukan jeda waktu</string>
+</resources>
